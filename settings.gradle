@@ -1,0 +1,9 @@
+rootProject.name = 'DesignPattern'
+include 'FactoryPatternDemo'
+include 'AbstactFactoryPatternDemo'
+include 'AbstractFactoryPattern'
+include 'FactoryPatternDemo'
+include 'AbstractFactoryPatternDemo'
+include 'Singleton'
+include 'AdapterPatternDemo'
+
