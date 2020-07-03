@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../AbstractFactoryPatternDemo" />
         <option name="gradleJvm" value="1.8 (2)" />
@@ -14,9 +17,10 @@
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.8 (2)" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -24,8 +28,13 @@
             <option value="$PROJECT_DIR$/AbstractFactoryPattern" />
             <option value="$PROJECT_DIR$/AbstractFactoryPatternDemo" />
             <option value="$PROJECT_DIR$/AdapterPatternDemo" />
+            <option value="$PROJECT_DIR$/DecoratorPatternDemo" />
             <option value="$PROJECT_DIR$/FactoryPatternDemo" />
+            <option value="$PROJECT_DIR$/MVCPatternDemo" />
+            <option value="$PROJECT_DIR$/ObserverPatternDemo" />
+            <option value="$PROJECT_DIR$/ProxyPatternDemo" />
             <option value="$PROJECT_DIR$/Singleton" />
+            <option value="$PROJECT_DIR$/StrategyPatternDemo" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />
