@@ -28,12 +28,14 @@
             <option value="$PROJECT_DIR$/AbstractFactoryPattern" />
             <option value="$PROJECT_DIR$/AbstractFactoryPatternDemo" />
             <option value="$PROJECT_DIR$/AdapterPatternDemo" />
+            <option value="$PROJECT_DIR$/BuilderPatternDemo" />
             <option value="$PROJECT_DIR$/DecoratorPatternDemo" />
             <option value="$PROJECT_DIR$/FactoryPatternDemo" />
             <option value="$PROJECT_DIR$/MVCPatternDemo" />
             <option value="$PROJECT_DIR$/ObserverPatternDemo" />
             <option value="$PROJECT_DIR$/ProxyPatternDemo" />
             <option value="$PROJECT_DIR$/Singleton" />
+            <option value="$PROJECT_DIR$/StatePatternDemo" />
             <option value="$PROJECT_DIR$/StrategyPatternDemo" />
           </set>
         </option>
