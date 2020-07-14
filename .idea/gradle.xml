@@ -30,6 +30,7 @@
             <option value="$PROJECT_DIR$/AdapterPatternDemo" />
             <option value="$PROJECT_DIR$/BuilderPatternDemo" />
             <option value="$PROJECT_DIR$/DecoratorPatternDemo" />
+            <option value="$PROJECT_DIR$/DelegatePatternDemo" />
             <option value="$PROJECT_DIR$/FactoryPatternDemo" />
             <option value="$PROJECT_DIR$/MVCPatternDemo" />
             <option value="$PROJECT_DIR$/ObserverPatternDemo" />

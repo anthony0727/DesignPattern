@@ -13,4 +13,5 @@ include 'StrategyPatternDemo'
 include 'MVCPatternDemo'
 include 'BuilderPatternDemo'
 include 'StatePatternDemo'
+include 'DelegatePatternDemo'
 
